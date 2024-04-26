@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(cookieParser());
 
 const corsOptions = {
-  origin: 'https://taskmanager-3lhuesi88-abhishekverma2021s-projects.vercel.app', // change this to your frontend origin
+  origin: 'https://taskmanager-tau-rose.vercel.app/', // change this to your frontend origin
   credentials: true // this allows cookies
 };
 
